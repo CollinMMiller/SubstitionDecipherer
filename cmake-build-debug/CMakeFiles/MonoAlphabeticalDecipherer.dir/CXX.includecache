@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rneptune/MonoAlphabeticalDecipherer/Decrypter.cpp
+iostream
+-
+vector
+-
+Decrypter.h
+/home/rneptune/MonoAlphabeticalDecipherer/Decrypter.h
+
+/home/rneptune/MonoAlphabeticalDecipherer/Decrypter.h
+algorithm
+-
+string
+-
+WordBank.h
+/home/rneptune/MonoAlphabeticalDecipherer/WordBank.h
+
+/home/rneptune/MonoAlphabeticalDecipherer/WordBank.h
+vector
+-
+string
+-
+
+/home/rneptune/MonoAlphabeticalDecipherer/main.cpp
+iostream
+-
+fstream
+-
+WordBank.h
+/home/rneptune/MonoAlphabeticalDecipherer/WordBank.h
+Decrypter.h
+/home/rneptune/MonoAlphabeticalDecipherer/Decrypter.h
+

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="MonoAlphabeticalDecypherer" targetName="MonoAlphabeticalDecipherer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1029c71a-8cee-43c7-8986-cb0f68096919" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="4" />
+    <option name="width" value="3840" />
+    <option name="height" value="2095" />
+  </component>
+  <component name="ProjectId" id="1XDcHGa03fwOCtegwmbDHZWOXVl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CLionProjects/PredPreyCellAuto" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MonoAlphabeticalDecipherer" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="JGNNQ, VJKU KU C UGETGV OGUUCIG. K NKMG EJKEMGP" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MonoAlphabeticalDecypherer" TARGET_NAME="MonoAlphabeticalDecipherer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MonoAlphabeticalDecypherer" RUN_TARGET_NAME="MonoAlphabeticalDecipherer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1029c71a-8cee-43c7-8986-cb0f68096919" name="Default Changelist" comment="" />
+      <created>1568798795838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568798795838</updated>
+      <workItem from="1568798797504" duration="3639000" />
+      <workItem from="1568817039072" duration="5434000" />
+      <workItem from="1569002016621" duration="1294000" />
+      <workItem from="1569077947110" duration="1891000" />
+      <workItem from="1569698036869" duration="13815000" />
+      <workItem from="1569720630766" duration="4499000" />
+      <workItem from="1569866018149" duration="1148000" />
+      <workItem from="1569867702900" duration="451000" />
+      <workItem from="1569976418033" duration="52000" />
+      <workItem from="1569976587608" duration="4789000" />
+      <workItem from="1571779921860" duration="1167000" />
+      <workItem from="1572278306810" duration="39000" />
+      <workItem from="1572292766174" duration="658000" />
+      <workItem from="1580584155242" duration="5269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1231" y="324" width="1980" height="1521" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580589032031">
+      <screen x="0" y="0" width="3840" height="2070" />
+    </state>
+    <state x="1231" y="324" width="1980" height="1521" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2070@0.0.3840.2070" timestamp="1580589032031" />
+    <state x="1285" y="343" width="1259" height="1417" key="FileChooserDialogImpl" timestamp="1580588113836">
+      <screen x="0" y="0" width="3840" height="2070" />
+    </state>
+    <state x="1285" y="343" width="1259" height="1417" key="FileChooserDialogImpl/0.0.3840.2070@0.0.3840.2070" timestamp="1580588113836" />
+    <state width="3720" height="417" key="GridCell.Tab.0.bottom" timestamp="1580590043314">
+      <screen x="0" y="0" width="3840" height="2070" />
+    </state>
+    <state width="3720" height="417" key="GridCell.Tab.0.bottom/0.0.3840.2070@0.0.3840.2070" timestamp="1580590043314" />
+    <state width="3720" height="417" key="GridCell.Tab.0.center" timestamp="1580590043314">
+      <screen x="0" y="0" width="3840" height="2070" />
+    </state>
+    <state width="3720" height="417" key="GridCell.Tab.0.center/0.0.3840.2070@0.0.3840.2070" timestamp="1580590043314" />
+    <state width="3720" height="417" key="GridCell.Tab.0.left" timestamp="1580590043313">
+      <screen x="0" y="0" width="3840" height="2070" />
+    </state>
+    <state width="3720" height="417" key="GridCell.Tab.0.left/0.0.3840.2070@0.0.3840.2070" timestamp="1580590043313" />
+    <state width="3720" height="417" key="GridCell.Tab.0.right" timestamp="1580590043314">
+      <screen x="0" y="0" width="3840" height="2070" />
+    </state>
+    <state width="3720" height="417" key="GridCell.Tab.0.right/0.0.3840.2070@0.0.3840.2070" timestamp="1580590043314" />
+    <state x="944" y="555" width="1949" height="959" key="com.intellij.ide.util.TipDialog" timestamp="1580584182626">
+      <screen x="0" y="0" width="3840" height="2070" />
+    </state>
+    <state x="944" y="555" width="1949" height="959" key="com.intellij.ide.util.TipDialog/0.0.3840.2070@0.0.3840.2070" timestamp="1580584182626" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>word == &quot;favorite&quot;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
